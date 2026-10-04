@@ -53,7 +53,7 @@ Each sheet is published as a CSV link and loaded into Power BI. A separate date 
 
 ## Files
 
-- `report.pdf` is a PDF export of the Power BI report
+- `BBQ_Sale_Performance.pdf` is a PDF export of the Power BI report
 - `Screenshot.png` is a screenshots
 
 ## Data privacy
